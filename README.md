@@ -1,1 +1,3 @@
-명지대 캡스톤 디자인 졸업작품 
+1. Current most popular news
+2. COVID-19 daily confirmed patients
+3. Russian and Ukrainian War Articles
